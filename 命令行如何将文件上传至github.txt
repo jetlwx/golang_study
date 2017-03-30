@@ -1,0 +1,10 @@
+两种方法：
+命令行模式
+
+1 在github上创建好自己的repository
+２ cd 到机器上对应的项目目录内, ex :
+    cd /go/src/github.com/jetlwx/golang_study
+3　执行命令　git remote add origin https://github.com/jetlwx/golang_study
+４　首次使用时，最好　运行一下命令，把服务器上文件拉一份到本地
+git pull origin master
+５　推送新代码文件到服务器
