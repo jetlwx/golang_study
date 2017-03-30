@@ -1,3 +1,6 @@
+# How to Use command line 
+git
+=======
 两种方法：
 命令行模式
 
